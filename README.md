@@ -122,7 +122,7 @@ The structure of this project looks something like this:
 * Following, the Team Lead should then send the url to clone their fork to everyone sitting at their table. This url will look something like `git@github.com:TEAM-LEAD-GITHUB-USERNAME/vfa-deploy-on-day-1.git`.
 * Now every team member except their team lead should [update their git `remote` url](https://help.github.com/articles/changing-a-remote-s-url/) to the team lead's url.
   * Open this lesson in your Learn IDE
-  * In the terminal, run the following command: `git remote set-url origin https://github.com/TEAM-LEAD-GITHUB-USERNAME/vfa-deploy-on-day-1.git` (**note:** the URL there is the clone link your team lead just shared with you)
+  * In the terminal, run the following command: `git remote set-url origin https://github.com/williamhmartin/vfa-deploy-on-day-1.git` (**note:** the URL there is the clone link your team lead just shared with you)
   * Confirm that you've updated your remote by running `git remote -v`. You should see something like the following:
 
 ```text
